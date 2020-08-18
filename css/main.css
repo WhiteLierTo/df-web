@@ -422,9 +422,9 @@ textarea {
 }
 
 .scroll-logo span {
-  position: absolute;
+  position: relative;
   color   : #000;
-  top     : 10px;
+  top     : -25px;
 }
 
 /************************/
@@ -1040,7 +1040,7 @@ body.fixed-header .scrolling-header .navbar .wrap-inside-nav {
 }
 
 .top-header.countact-us-header {
-  background     : url(http://i2.tiimg.com/724085/33480f2f2c543717.jpg) top center no-repeat;
+  background     : url(http://qiniu-open.geekwhale.com/multisail_img10.jpg) top center no-repeat;
   background-size: cover;
 }
 
@@ -1196,7 +1196,7 @@ body.fixed-header .scrolling-header .navbar .wrap-inside-nav {
 /******************************/
 .achievements-section {
   padding        : 100px 0 200px;
-  background     : url(http://i2.tiimg.com/724085/19b56eceaa88c8a6.jpg) center no-repeat;
+  background     : url(http://qiniu-open.geekwhale.com/multisail_section-1.jpg) center no-repeat;
   background-size: cover;
 }
 
@@ -1336,7 +1336,7 @@ body.fixed-header .scrolling-header .navbar .wrap-inside-nav {
 /******************************/
 .steps-section {
   padding   : 80px 0 40px 0;
-  background: url(http://i2.tiimg.com/724085/8e44b563f07a492c.jpg) top center no-repeat;
+  background: url(http://qiniu-open.geekwhale.com/multisail_section-4.jpg) top center no-repeat;
 }
 
 .steps-section .results-container .skills li {
@@ -1403,7 +1403,7 @@ body.fixed-header .scrolling-header .navbar .wrap-inside-nav {
 }
 
 .services-section.service-service-section {
-  background     : url(http://i2.tiimg.com/724085/0808c25d214b8dfa.jpg) center no-repeat;
+  background     : url(http://qiniu-open.geekwhale.com/multisail_section-1.jpg) center no-repeat;
   background-size: cover;
   padding        : 40px 0 140px;
 }
@@ -1492,10 +1492,10 @@ body.fixed-header .scrolling-header .navbar .wrap-inside-nav {
 /*****************************/
 /******* TEAM SECTION ********/
 /*****************************/
-.team-section {
+/* .team-section {
   padding   : 0px 0 40px 0;
   background: url(http://i2.tiimg.com/724085/8e44b563f07a492c.jpg) top center no-repeat;
-}
+} */
 
 /*****************************/
 /**** TEAM SECTION ****/
@@ -1577,7 +1577,7 @@ body.fixed-header .scrolling-header .navbar .wrap-inside-nav {
 /******************************/
 .slider-section {
   padding        : 90px 0 180px;
-  background     : url(http://i2.tiimg.com/724085/4a226cfdad3125bc.jpg) bottom center no-repeat;
+  background     : url(http://qiniu-open.geekwhale.com/multisail_section-1.jpg) bottom center no-repeat;
   background-size: cover;
 }
 
@@ -1943,7 +1943,7 @@ body.fixed-header .scrolling-header .navbar .wrap-inside-nav {
 }
 
 .about-header {
-  background     : url(http://i2.tiimg.com/724085/7da712db6fcb36cf.jpg) center no-repeat;
+  background     : url(http://qiniu-open.geekwhale.com/multisail_laptop.jpg) center no-repeat;
   background-size: cover;
 }
 
@@ -1962,7 +1962,7 @@ body.fixed-header .scrolling-header .navbar .wrap-inside-nav {
 }
 
 .services-header {
-  background     : url(http://i2.tiimg.com/724085/7da712db6fcb36cf.jpg) center no-repeat;
+  background     : url(http://qiniu-open.geekwhale.com/multisail_iphone-ipad.jpg) center no-repeat;
   background-size: cover;
 }
 
